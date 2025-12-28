@@ -1,2 +1,13 @@
 # RentryArchiver
-Tool to archive rentry.co links to md.
+
+Archive `rentry.co` pages into Markdown.
+
+## Examples
+
+### coom
+- **Original:** https://rentry.co/coom  
+- **Clone:** https://rentry.co/coom-clone
+
+### megathread
+- **Original:** https://rentry.co/megathread  
+- **Clone:** https://rentry.co/megathread-clone
